@@ -1,0 +1,47 @@
+header {
+    color: black;
+}
+
+
+
+div.bloque2 {
+    background-color: green;
+}
+
+
+.caja {
+    background-color: blue;
+    width: 410px;
+    height: 410px;
+    display: inline-block;
+}
+.caja2 {
+    background-color: red;
+    width: 410px;
+    height: 410px;
+    display: inline-block;
+}
+.caja3 {
+    background-color: yellow;
+    width: 410px;
+    height: 410px;
+    display: inline-block;
+}
+
+
+.blo{
+    width: 50%;
+}
+
+.linea{
+    display: inline;
+}
+p {
+    background-color: ye;
+}
+
+
+
+.estudiar{
+    text-underline-offset: estudiar;
+}
