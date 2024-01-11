@@ -4,33 +4,47 @@ header {
 
 
 
-div.bloque2 {
+.caja4 {
     background-color: green;
+    width: 1900px;
+    height: 43px;
+    display: block;
+    margin-block-end: auto;
+    margin-block-start: auto;
 }
 
+div.bloque3 {
+    background-color: lightblue;
+}
 
 .caja {
     background-color: blue;
-    width: 410px;
-    height: 410px;
+    width: 620px;
+    height: 620px;
     display: inline-block;
+    margin-block-end: auto;
+    margin-block-start: auto;
 }
 .caja2 {
     background-color: red;
-    width: 410px;
-    height: 410px;
+    width: 620px;
+    height: 620px;
     display: inline-block;
+    margin-block-end: auto;
+    margin-block-start: auto;
 }
 .caja3 {
     background-color: yellow;
-    width: 410px;
-    height: 410px;
+    width: 620px;
+    height: 620px;
     display: inline-block;
+    margin-block-end: auto;
+    margin-block-start: auto;
 }
 
 
 .blo{
-    width: 50%;
+    width: 30%;
 }
 
 .linea{
@@ -43,5 +57,5 @@ p {
 
 
 .estudiar{
-    text-underline-offset: estudiar;
+    text-underline-offset: Cal estudiar;
 }
